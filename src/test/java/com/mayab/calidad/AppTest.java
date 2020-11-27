@@ -10,6 +10,9 @@ import junit.framework.TestSuite;
 public class AppTest 
     extends TestCase
 {
+	
+	
+	// VERONICA ESTUVO AQUI
     /**
      * Create the test case
      *
